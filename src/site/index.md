@@ -3,7 +3,7 @@ title: Twavatar
 layout: layouts/base.njk
 ---
 
-# Quick twitter avatars from twavatar
+# Testy McTestface
 
 An API to grab Twitter avatars with just their twitter handle. Built as a [JAMstack](https://jamstack.org) site and served on [Netlify](https://netlify.com), with a sprinkling of serverless functions via [Netlify Functions](https://www.netlify.com/blog/2018/03/20/netlifys-aws-lambda-functions-bring-the-backend-to-your-frontend-workflow/)
 
