@@ -5,4 +5,4 @@ layout: layouts/base.njk
 
 # New page test
 
-Trying out a git push from local.
+Now trying a push from Working Copy :)
